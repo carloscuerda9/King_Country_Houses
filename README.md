@@ -17,8 +17,8 @@ We are using the 'King_country_houses.csv` from kaggle link https://www.kaggle.c
 We will perform an exploration and preliminary data cleaning
 
 ### Estadisticas principales
--Estadísticas descriptivas del conjunto de datos
--Histograma
+- Estadísticas descriptivas del conjunto de datos
+- Histograma
 
 ### Processing Data
 - X-y split.
