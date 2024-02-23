@@ -24,7 +24,7 @@ We will perform an exploration and preliminary data cleaning
 - X-y split.
 - Normalize data.
 - Scale data.
-- 
+  
 ### Linear Regression
 - Train-test split.
 - Apply linear regression.
@@ -35,5 +35,5 @@ We will perform an exploration and preliminary data cleaning
   - MSE.
   - RMSE.
   - MAE.
-### Comparaciones de los modelos 
+### Comparison of the different models.
 Draw conclusions on how to work with different linear regression models, explore methods of normalizing and scaling data, as well as addressing multicollinearity and outliers.
